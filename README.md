@@ -1,6 +1,6 @@
-# ForTheAnimals
+# For The Animals
 
-Los rangos de percepción de escucha mini y maximos de las especies de animales en el experimento son los siguientes: 
+Los rangos de percepción de escucha minima y maximos de las especies de animales en el experimento son los siguientes: 
 
 - Felinos:  38Hz a 85kHz
 - Coyotes:  47Hz a 45kHz
