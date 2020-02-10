@@ -6,7 +6,8 @@ Los rangos de percepción de escucha minima y maximos de las especies de animale
 - Coyotes:  47Hz a 45kHz
 - Roedores: 10Hz a 91kHz
 - Ferret:   16Hz a 44kHz
-- Cimarron: 125hz a 42kHz
+- Cimarron: 125Hz a 42kHz
+- Zorro:    65Hz a 22kHz
 
 
 Rangos de frecuencias con caracteriticas psicoacusticas e isocronicas que son conocidas por tener efectos fisicos en mamiferos 
