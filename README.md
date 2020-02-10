@@ -20,6 +20,7 @@ de distintos tipos:
 - Hz(117-124)
 - Hz(106-115)
 - Hz(90-104)
+- Hz(30-80)
 
-Utilizaremos 7 rangos de frecuencia distinta que pueden tener efectos resonantes en 7 zonas principales del cuerpo de las especies. 
+Utilizaremos 8 rangos de frecuencia distinta que pueden tener efectos resonantes en 7 zonas principales del cuerpo de las especies. 
 
